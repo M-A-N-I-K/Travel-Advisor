@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.searchBar{
+    display: flex;
+    justify-content: center;
+}
+#query{
+    height: 30px;
+    margin: 20px 10px;
+}
